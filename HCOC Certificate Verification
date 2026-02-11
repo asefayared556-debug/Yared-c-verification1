@@ -6,12 +6,12 @@
   <meta name="description" content="">
   <meta name="keywords" content="">
   
-  <link rel="icon" href="./HCOC Certificate Verification_files/logo.png" type="image/gif">
+  <link rel="icon" href=".logo.png" type="image/gif">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="./HCOC Certificate Verification_files/bootstrap.min.css">
-  <link rel="stylesheet" href="./HCOC Certificate Verification_files/all.min.css">
-  <link rel="stylesheet" href="./HCOC Certificate Verification_files/style.css">
-  <link rel="stylesheet" href="./HCOC Certificate Verification_files/certv.css">
+  <link rel="stylesheet" href=".bootstrap.min.css">
+  <link rel="stylesheet" href=".all.min.css">
+  <link rel="stylesheet" href=".style.css">
+  <link rel="stylesheet" href=".certv.css">
   
   
  
@@ -781,7 +781,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="brand">
-                    <img src="./HCOC Certificate Verification_files/logo.png" alt=""> 
+                    <img src=".logo.png" alt=""> 
                       <div class="brand-name">
                         <h1>HARARI PEOPLE REGIONAL STATE</h1>
                         <h2></h2>
@@ -918,9 +918,9 @@
     <!-- End footer -->
     <!-- End footer -->
 
-<script src="./HCOC Certificate Verification_files/jquery-3.3.1.slim.min.js.download"></script> 
-<script src="./HCOC Certificate Verification_files/bootstrap.min.js.download"></script> 
-<script src="./HCOC Certificate Verification_files/owl.carousel.min.js.download"></script>
-<script src="./HCOC Certificate Verification_files/main.js.download"></script>
+<script src=".jquery-3.3.1.slim.min.js.download"></script> 
+<script src=".bootstrap.min.js.download"></script> 
+<script src=".owl.carousel.min.js.download"></script>
+<script src=".main.js.download"></script>
 
 </body></html>

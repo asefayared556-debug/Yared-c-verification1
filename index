@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html> <html lang=en><!--
  Page saved with SingleFile 
  url: https://hcoc.gov.et/certv.php 
@@ -209,7 +208,7 @@
       color: #1E9A2B;
       padding: 12px;
       border-bottom: 1px solid #ddd;
-      font-size: 16px;
+      font-size: 18px;
     }
 
     table {
@@ -1037,7 +1036,3 @@
  </div>
  
  </footer>
- 
- 
- 
- 

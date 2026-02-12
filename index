@@ -6,15 +6,13 @@
   <meta name="description" content="">
   <meta name="keywords" content="">
   
-  <img src="hcoc-files/logo.png" alt="Logo">
+  <img src="images/logo.png" alt="Logo">
   <meta name="viewport" content= "width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="bootstrap.min.css">
-  <link rel="stylesheet" href="all.min.css">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="certv.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/certv.css">
   
-  <script src="jquery-3.3.1.slim.min.js"></script>
-  <script src="bootstrap.min.js"></script>
  
 
 </head>

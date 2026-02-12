@@ -8,10 +8,10 @@
   
   <img src="logo.png" alt="Logo">
   <meta name="viewport" content= "width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="bootstrap.min.css">
-  <link rel="stylesheet" href="all.min.css">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="certv.css">
+  <link rel="stylesheet" href="./hcoc%20files/bootstrap.min.css">
+  <link rel="stylesheet" href="./hcoc%20files/all.min.css">
+  <link rel="stylesheet" href="./hcoc%20files/style.css">
+  <link rel="stylesheet" href="./hcoc%20files/certv.css">
   
  
 
